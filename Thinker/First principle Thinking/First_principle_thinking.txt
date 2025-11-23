@@ -31,7 +31,7 @@ Don’t repeat it blindly.
 
 Ask:
 
-Why?
+Why
 
 What actually makes something fast?
 
