@@ -4,4 +4,4 @@ how instagram works.
 2) Transistors switch On/off
 3) these on/off patterns represents bits
 4) bits store and process information.
-5
+
