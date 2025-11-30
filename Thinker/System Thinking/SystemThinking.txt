@@ -1,0 +1,76 @@
+system is anything madeup of Parts.
+
+parts not just existing together but influecing each other.
+
+1. System Components
+1.1 Elements (Parts)
+
+These are the individual units: CPU, RAM, people, trees, habits, water, hormones, tasks, etc.
+
+1.2 Interconnections (Relationships)
+
+How the elements influence or depend on each other: signals in a motherboard, money flow in an economy, thought → emotion → action in the mind.
+Interconnections decide the system’s behavior more than the elements.
+
+1.3 Purpose
+
+Every system has a purpose (declared or hidden).
+Brain: survive + predict.
+School: education + social order.
+Phone apps: maximize engagement.
+
+1.4 Boundaries
+
+What is inside vs outside the system.
+Defines inputs, outputs, limits, and what you choose to ignore.
+
+2. Feedback Loops
+2.1 Reinforcing Loop (Positive Feedback)
+
+“More → more → more.”
+Accelerates growth or decline.
+Examples:
+• More practice → more skill → more confidence → more practice
+• More users → more value → more users
+• More stress → less sleep → worse performance → more stress
+
+2.2 Balancing Loop (Negative Feedback)
+
+Stabilizes the system.
+Examples:
+• Body temperature regulation
+• Traffic lights controlling flow
+• Tiredness slowing down studying
+Balancing loops prevent collapse or runaway behavior.
+
+3. Cause–Effect Mapping
+3.1 Linear Thinking
+
+A → B → C. Simple but rarely true for real-world systems.
+
+3.2 Circular Thinking
+
+A affects B,
+B affects C,
+C loops back and affects A.
+Systems behave in circles, not straight lines.
+
+3.3 How to Map Cause–Effect
+
+Identify the event.
+
+Ask: what caused it?
+
+Ask: what does that cause lead to?
+
+See if the effect loops back to influence the cause.
+
+Example (procrastination):
+Fear → delay → guilt → more fear → more delay.
+
+3.4 Signs You Understand Systems Thinking
+
+• You see loops, not isolated events
+• You focus on structures, not symptoms
+• You see small leverage points that change everything
+• You recognize that behavior emerges from interactions, not single elements
