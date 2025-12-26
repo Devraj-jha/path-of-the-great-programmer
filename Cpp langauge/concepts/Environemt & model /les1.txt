@@ -1,0 +1,22 @@
+computer does not understand cpp. 
+it understands binary.
+cpp compilation pipline. 
+
+1. preprocessing 
+        => handles #include <iostream> etc 
+
+2. compilation. 
+        => parses grammer 
+        => check types 
+    this here throws things like sytax error type erorrs etc 
+
+3. optimziation
+    => do other extra stuff. 
+
+
+what g++/ clang++ doees
+g++ main.cpp
+ =>Preprocessor
+→ Compiler
+→ Assembler
+→ Linker

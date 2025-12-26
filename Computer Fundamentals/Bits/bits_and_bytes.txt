@@ -1,7 +1,0 @@
-A bit is a smallest unit of info a computer can store.
-it is easy for unerstanding as it has only zero and one. 
-either the switch is one or off. 
- 
-
-1 byte = 8 bit. 
-A byte is the smallest chunk computers usually deal with.
