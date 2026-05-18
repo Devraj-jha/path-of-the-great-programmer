@@ -1,0 +1,38 @@
+// when we send a request. (search something on browswer)
+
+// -> 
+//DNS Look up -> 
+google.com -> some number (computer asks what ip adress is this)
+
+//Tcp connect is created
+-> it is a transmission control protocol -> 
+it ensures data arrives correctly. 
+bascially tcp creates a link between us and the server 
+http is the rule 
+tcp is how to send it. 
+ip where to send it. 
+
+//http request sent
+we send an http request
+
+
+//server processes that data. 
+ => checks database run logic or anything like that
+
+
+// response sent back
+broswer decodes it. boom 
+
+Your code
+   ↓ fetch()
+Internet request starts
+   ↓
+Server receives request
+   ↓
+Server responds
+   ↓
+Raw data comes back
+   ↓
+decode (.json)
+   ↓
+usable JavaScript object
