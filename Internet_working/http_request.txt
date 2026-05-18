@@ -1,0 +1,21 @@
+when we open a website, or call an api. 
+-> 
+computers sends a request over the intenet. 
+
+That message is http request. (hyper text tranfer protocol request)
+
+you -> http request -> server
+
+various types of request
+// get -> give me data
+// post -> store a data
+// put -> update a data
+// delete -> remove a data
+
+
+Fetching
+-> Making and http request from code. 
+go to a server -> ask for a data -> bring the data back
+//server usually sends raw data. 
+// we decode or parse it.
+
