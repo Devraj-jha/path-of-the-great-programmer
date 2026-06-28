@@ -1,0 +1,12 @@
+broswer sends request server processes it.
+and sends response.
+backend is simply a software, 
+running somewhere that can be accessed.
+
+broswer sends something..
+get /profile
+here is your profile.
+
+broswer sends post /login
+
+Request → Processing → Response
