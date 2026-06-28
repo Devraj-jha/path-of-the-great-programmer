@@ -1,0 +1,18 @@
+TCP = Transmission Control Protocol
+IP  = Internet Protocol
+
+Routing = Finding the best path for data to reach its destination.
+
+tcp -> transmission control protocol
+is the actually thing that powers the protocoll
+
+divides into 
+ip => internet protocols decides adress of the destination
+tcp => quality checkers checks if each data is tranfered properly over the internet or not..
+
+IP (Internet Protocol)
+↓
+• Gives every device an IP address.
+• Moves packets toward the destination.
+• Routers use the destination IP address to decide where to send packets next.
+
