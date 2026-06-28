@@ -1,0 +1,16 @@
+basically osi model. is like a system that tells. 
+how will data travel from one computer to another..
+dividing the jobs into layers.
+
+There are 7 layers. 
+applications 
+presentation
+session 
+transport
+network
+data link. 
+physical
+
+it defines all the physical and software layers..
+when the data transfers through wire in ocean..
+Not a hard rule like http or something.. just a map or blueprint..
