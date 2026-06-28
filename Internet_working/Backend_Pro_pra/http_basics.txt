@@ -1,0 +1,21 @@
+broswer server talks with each other.. 
+but How??
+
+they need a common language .
+and that is http.. 
+HyperText Transfer Protocol
+
+// 3 main things 
+Http request
+
+method -> what client wants
+// get -> give me something
+// post -> create something
+
+//path 
+adress from where to get those resources
+
+http response:
+status code 
+data
+
