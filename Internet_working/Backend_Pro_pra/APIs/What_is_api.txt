@@ -1,0 +1,27 @@
+an API is simply a way for one programme to ask another programme to do something..
+
+
+set of http endpoints your server exposes..
+get /posts
+
+get /profile
+etcetc
+
+frontend never touches backend it uses api to communicate
+
+with backenc
+
+API (Application Programming Interface)
+
+An API is a way for one program to communicate with another.
+
+In backend development, an API is the collection of HTTP endpoints that a server exposes.
+
+The frontend uses the API to request data or perform actions without directly accessing the database or business logic.
+
+Example API:
+
+GET    /posts
+GET    /profile
+POST   /login
+DELETE /post/5
